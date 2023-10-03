@@ -10,6 +10,12 @@ In this project, I created an interactive Power BI real-time dashboard illustrat
 </p>
 <br/>
 
+<br/>
+<p align="center">
+  <img src="https://res.cloudinary.com/dosoz454f/image/upload/v1696317707/Data_Scientist_Portfolio_1_edited_mp5gih.png" width="800"/>
+</p>
+<br/>
+
 ## :page_with_curl: Learning Curves
 - Established a seamless integration between Power BI and a local MySQL server, ensuring real-time data synchronization of 4 years data.
 - Executed rigorous data cleaning methodologies such as conversion of currency using DAX, rectifying inconsistencies and enhancing the quality of sales data sourced from the MySQL database.
